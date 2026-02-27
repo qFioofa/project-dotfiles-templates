@@ -11,11 +11,11 @@ On linux you can downlaod fast via `wget`
 > .clang-fromat
 
 ```bash
-
+wget https://raw.githubusercontent.com/qFioofa/project-dotfiles-templates/refs/heads/main/.clang-fromat
 ```
 
 > .editorconfig
 
 ```bash
-
+wget https://raw.githubusercontent.com/qFioofa/project-dotfiles-templates/refs/heads/main/.editorconfig
 ```
